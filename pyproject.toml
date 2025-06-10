@@ -5,7 +5,7 @@ description = "A small utility to scrape game covers for yourAnbernic RGXX devic
 readme = "readme.md"
 requires-python = ">=3.12"
 dependencies = [
-    "requests==2.32.3",
+    "requests==2.32.4",
 ]
 
 [tool.uv]
